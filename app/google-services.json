@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121923424630",
+    "project_id": "fir-databasepractice-efbe5",
+    "storage_bucket": "fir-databasepractice-efbe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121923424630:android:476c8949024e5088266a57",
+        "android_client_info": {
+          "package_name": "com.bhavani.firebasedatabasepractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121923424630-omagn62bqtu7elvfu91bgbh64jjjm7ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV8NgWbMzBEK5OpoQSPf7Lln7jiSxweSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121923424630-omagn62bqtu7elvfu91bgbh64jjjm7ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
